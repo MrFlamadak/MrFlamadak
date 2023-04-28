@@ -30,8 +30,3 @@ currently solving algorithm and other programming problems in Elixir as well as 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFlamadak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
