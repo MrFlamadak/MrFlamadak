@@ -1,15 +1,11 @@
 ### Welcome to my Github profile 👋
 Hello. My name's Mostafa and I'm studying Information and Communcation Technology at KTH.  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFlamadak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## What I do on Github
 I use github to showcase projects and assignments I've worked on from differnt programming courses. 
-
 ## Languages I have programmed in
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java)](https://skillicons.dev)
-
 ## Currently learning
 * Unity game making
-
 
 ## Courses I'm currently enrolled in
 * SF1546 Numerical Methods
@@ -31,7 +27,6 @@ currently solving algorithm and other programming problems in Elixir as well as 
 - ⚡ Fun fact: ...
 -->
 
-
-`yoyo` 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFlamadak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
