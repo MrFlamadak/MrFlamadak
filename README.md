@@ -1,7 +1,7 @@
 ## Welcome to my Github profile 👋
 Hello. My name's Mostafa and I'm studying Information and Communcation Technology at KTH.  
 ### What I do on Github
-I use github to showcase projects and assignments I've worked on from differnt programming courses. 
+I use github to showcase projects and assignments I've worked on from different programming courses. 
 ### Languages I have programmed in
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java)](https://skillicons.dev)
 ### Currently learning
