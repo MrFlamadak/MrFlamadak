@@ -3,7 +3,7 @@ Hello. My name's Mostafa and I'm studying Information and Communcation Technolog
 ### What I do on Github
 I use github to showcase projects and assignments I've worked on from different programming courses. 
 ### Languages I have programmed in
-[![My Skills](https://skillicons.dev/icons?i=elixir,c,css,java,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,c,c#,java,matlab)](https://skillicons.dev)
 ### Currently learning
 * Unity game making
 
