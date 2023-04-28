@@ -1,15 +1,19 @@
 ## Welcome to my Github profile 👋
-Hello. My name's Mostafa and I'm studying Information and Communcation Technology at KTH.  
+My name's Mostafa and I'm studying Information and Communcation Technology at KTH.  
 ### What I do on Github
-I use github to showcase projects and assignments I've worked on from different programming courses. 
+I use github to showcase projects and assignments I've worked on from various programming courses. 
 ### Languages I have programmed in
-[![My Skills](https://skillicons.dev/icons?i=elixir,csharp,c#,java,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,cs,java,matlab)](https://skillicons.dev)
 ### Currently learning
 * Unity game making
 
 ### Courses I'm currently enrolled in
 * SF1546 Numerical Methods
 * II1305 Information and Technology project
+
+### Currently working in
+* cs
+* matlab
 
 <!--
 **MrFlamadak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
