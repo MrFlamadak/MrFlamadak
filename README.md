@@ -1,5 +1,5 @@
 ## Welcome to my Github profile 👋
-My name's Mostafa and I'm studying Information and Communcation Technology at KTH.  
+My name's Mostafa and I'm studying Information and Communication Technology at KTH.  
 ### What I do on Github
 I use github to showcase projects and assignments I've worked on from various programming courses. 
 ### Languages I have programmed in
