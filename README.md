@@ -5,14 +5,15 @@ I use github to showcase projects and assignments I've worked on from various pr
 ### Languages I have programmed in
 [![My Skills](https://skillicons.dev/icons?i=elixir,cs,java,matlab,latex,git,postgresql)](https://skillicons.dev)
 ### Currently learning
-* Unity game making
+* Algorithms/Datastructures
+* Statistical models and simulations
 
 ### Courses I'm currently enrolled in
-* SF1546 Numerical Methods
-* II1305 Information and Technology project
+* DD2350 Algoritmer, datastrukturer och komplexitet
+* SF1912 Sannolikhetsteori och statistik
 
 ### Currently working in
-* cs
+* java
 * matlab
 
 <!--
