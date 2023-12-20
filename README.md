@@ -15,7 +15,6 @@ I use github to showcase projects and assignments I've worked on from various pr
 
 ### Currently working in
 * java
-* matlab
 * C
 
 <!--
