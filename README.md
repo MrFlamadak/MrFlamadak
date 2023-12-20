@@ -4,17 +4,19 @@ My name's Mostafa and I'm studying Information and Communication Technology at K
 I use github to showcase projects and assignments I've worked on from various programming courses. 
 ### Languages I have programmed in
 [![My Skills](https://skillicons.dev/icons?i=elixir,cs,java,matlab,latex,git,postgresql)](https://skillicons.dev)
-### Currently learning
+### Currently learning about
 * Algorithms/Datastructures
-* Statistical models and simulations
+* Operating system infrastructures
 
 ### Courses I'm currently enrolled in
 * DD2350 Algoritmer, datastrukturer och komplexitet
-* SF1912 Sannolikhetsteori och statistik
+* IK2206 Internet Security and Privacy
+* ID1206 Operating Systems
 
 ### Currently working in
 * java
 * matlab
+* C
 
 <!--
 **MrFlamadak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
