@@ -1,12 +1,13 @@
 ## Welcome to my Github profile 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=blue&style=for-the-badge" width="100"/>
 </div>
-Name's Mostafa
-Studying Information and Communication Technology at KTH.  
+My name is Mostafa and I'm studying Information and Communication Technology at KTH.
+
 ### What I do on Github
 I use github to showcase projects and assignments I've worked on from various programming courses. Also planning to include various other projects to build up a nice portfolio 
 ### Languages I have programmed in
