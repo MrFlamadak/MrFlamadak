@@ -13,17 +13,13 @@ I use github to showcase projects and assignments I've worked on from various pr
 ### Languages I have programmed in
 [![My Skills](https://skillicons.dev/icons?i=elixir,cs,java,matlab,latex,git,postgresql)](https://skillicons.dev)
 ### Currently learning about
-* Algorithms/Datastructures
-* Operating system infrastructures
-* Internet Security and Privacy
+* Digitalization and innovation for sustainable development
+* Concurrent programming
 ### Courses I'm currently enrolled in
-* DD2350 Algoritmer, datastrukturer och komplexitet
-* IK2206 Internet Security and Privacy
-* ID1206 Operating Systems
-
+* ID1217 Concurrent Programming
+* AL1523 Digitalisation and Innovation for Sustainable Development 
 ### Currently working in
-* java
-* C
+* C/C++
 
 <!--
 **MrFlamadak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
