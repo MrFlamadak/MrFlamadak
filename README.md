@@ -11,15 +11,19 @@ My name is Mostafa and I'm studying Information and Communication Technology at 
 ### What I do on Github
 I use github to showcase projects and assignments I've worked on from various programming courses. Also planning to include various other projects to build up a nice portfolio 
 ### Languages I have programmed in
-[![My Skills](https://skillicons.dev/icons?i=elixir,cs,java,matlab,latex,git,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,cs,cpp,java,matlab,latex,git,postgresql)](https://skillicons.dev)
 ### Currently learning about
-* Digitalization and innovation for sustainable development
-* Concurrent programming
-### Courses I'm currently enrolled in
-* ID1217 Concurrent Programming
-* AL1523 Digitalisation and Innovation for Sustainable Development 
+* Visualization
+* Machine learning
+* Advanced algorithms
+### Cool courses I'm currently enrolled in
+* Advanced algorithms - DD2440
+* Machine Learning - DD2421
+* Visualization - DD2257
 ### Currently working in
 * C/C++
+* Python
+* Inviwo
 
 <!--
 **MrFlamadak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
